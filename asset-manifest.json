@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/fifi-personal-web/static/css/main.e705c4f9.css",
+    "main.js": "/fifi-personal-web/static/js/main.e82c1e4d.js",
+    "static/js/787.fb771931.chunk.js": "/fifi-personal-web/static/js/787.fb771931.chunk.js",
+    "static/media/fullstack.png": "/fifi-personal-web/static/media/fullstack.96c9ebd51f59d1aebab6.png",
+    "static/media/header-image.png": "/fifi-personal-web/static/media/header-image.c7ef2a0bf1c10b7fb5fb.png",
+    "static/media/color-sharp.png": "/fifi-personal-web/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/fifi-personal-web/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/sql.png": "/fifi-personal-web/static/media/sql.300e6f794b233ac9f372.png",
+    "static/media/banner-bg.png": "/fifi-personal-web/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/android.PNG": "/fifi-personal-web/static/media/android.20dfbb1b7981d6015d0e.PNG",
+    "static/media/CentraNo2-Bold.ttf": "/fifi-personal-web/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/fifi-personal-web/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/fifi-personal-web/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/fifi-personal-web/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/developer.png": "/fifi-personal-web/static/media/developer.e41613ce3d265f0940e4.png",
+    "static/media/revicons.eot": "/fifi-personal-web/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/fifi-personal-web/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/fifi-personal-web/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/sql.svg": "/fifi-personal-web/static/media/sql.dfe08040762c4116361bb0947696c136.svg",
+    "static/media/ract.svg": "/fifi-personal-web/static/media/ract.77f49cc186253a4726f9cd761d3c9ec8.svg",
+    "static/media/node.svg": "/fifi-personal-web/static/media/node.5966a360988ebce664051528393a71f1.svg",
+    "static/media/java.svg": "/fifi-personal-web/static/media/java.87397673c6c41ee8fe29b0882b525b6b.svg",
+    "static/media/nav-icon2.svg": "/fifi-personal-web/static/media/nav-icon2.41ae165523e387cc545d21f731b0c54b.svg",
+    "index.html": "/fifi-personal-web/index.html",
+    "static/media/nav-icon1.svg": "/fifi-personal-web/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/logo.svg": "/fifi-personal-web/static/media/logo.4ddcd1cfa806bc8c893c1313eaa87dd5.svg",
+    "static/media/mongo.svg": "/fifi-personal-web/static/media/mongo.05e9dfaf95b836810f9e12a669533345.svg",
+    "static/media/python.svg": "/fifi-personal-web/static/media/python.9c7630a7f5ced6c29fed2b0f2ac963b6.svg",
+    "static/media/js.svg": "/fifi-personal-web/static/media/js.b1f39e638393f1175074cb4bd69d4922.svg",
+    "main.e705c4f9.css.map": "/fifi-personal-web/static/css/main.e705c4f9.css.map",
+    "main.e82c1e4d.js.map": "/fifi-personal-web/static/js/main.e82c1e4d.js.map",
+    "787.fb771931.chunk.js.map": "/fifi-personal-web/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e705c4f9.css",
+    "static/js/main.e82c1e4d.js"
+  ]
+}
