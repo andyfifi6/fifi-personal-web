@@ -8,7 +8,8 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 app.use("/", router);
-app.listen(4000, () => console.log("Server Running"));
+const port = 4000 || process.env.PORT;
+app.listen(port, () => console.log("Server Running"));
 console.log(process.env.EMAIL_USER);
 console.log(process.env.EMAIL_PASS);
 
