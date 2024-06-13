@@ -11,7 +11,7 @@ export const Banner = () => {
     const [text, setText] = useState('');
     const [delta, setDelta] = useState(300 - Math.random() * 100);
     const [index, setIndex] = useState(1);
-    const toRotate = [ "Full Stack Developer", "Web Developer", "Web Designer" ];
+    const toRotate = [ "Full Stack Developer", "Backend Developer", "Software Engineer" ];
     const period = 2000;
 
     useEffect(() => {
@@ -56,8 +56,12 @@ export const Banner = () => {
                             {({ isVisible }) =>
                                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                                     <span className="tagline">Welcome to my Portfolio</span>
-                                    <h1>{`Hi! I'm Fifi`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></h1>
-                                    <p>I am a Master of Science in Computer Science (MSCS) student at Northeastern University looking to gain experience in the technology industry. </p>
+                                    <h1>{`Hi! I'm Fifi`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Full Stack Developer", "Backend Developer", "Software Engineer" ]'><span className="wrap">{text}</span></span></h1>
+                                    <p>I hold an MS in Computer Science from Northeastern University. My expertise includes Data Structures, Algorithms, Database Management, Mobile and Web Development, and Data Mining.</p>
+                                    <p>I have strong technical skills in Python, Java, C, SQL, R, JavaScript, HTML, CSS, Spring, React, Node.js, Express, Bootstrap, GitHub, JUnit, and Linux.
+                                        At Amazon, I developed a recommendation widget and worked on Java Spring applications, APIs, and code reviews.</p>
+                                    <p>As a Teaching Assistant, I instructed over 200 students in various CS subjects.
+                                        My projects include a full-stack online shopping site and an Android app with Firebase for note management.</p>
                                     <p>Being a curious person has always prepared me to think innovatively and logically about decisions and develop creative solutions.
                                         Curiosity also helps me create effective communication within groups, which works better together and ultimately achieves better results. </p>
                                     <button>
